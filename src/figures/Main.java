@@ -144,14 +144,6 @@ public class Main {
 //        boxes.put(paperRectangle);
 //        boxes.showFigures();
 
-//        System.out.println(boxes.toString());
-//        try{
-//            Connector writeBox(fileName, box);
-//        }catch (MySerDeserException e){
-//            if ( )
-//        }
-
-
     }
 
     private static void iterator(List<Figure> list) {
